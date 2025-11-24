@@ -1,0 +1,17 @@
+@charset "utf-8";
+.container header {
+	background-color: #053B5C;
+}
+.container header nav {
+	background-color: #293566;
+}
+.container #hero {
+	background-image: url(%E4%B8%8B%E8%BC%89.jpg);
+
+}
+.container #about {
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(250,146,78,1.00) 27.98%,rgba(139,236,255,1.00) 45.39%,rgba(89,255,83,1.00) 67.36%,rgba(255,31,31,1.00) 87.67%,rgba(29,163,255,1.00) 88.50%,rgba(255,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(250,146,78,1.00) 27.98%,rgba(139,236,255,1.00) 45.39%,rgba(89,255,83,1.00) 67.36%,rgba(255,31,31,1.00) 87.67%,rgba(29,163,255,1.00) 88.50%,rgba(255,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(250,146,78,1.00) 27.98%,rgba(139,236,255,1.00) 45.39%,rgba(89,255,83,1.00) 67.36%,rgba(255,31,31,1.00) 87.67%,rgba(29,163,255,1.00) 88.50%,rgba(255,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(250,146,78,1.00) 27.98%,rgba(139,236,255,1.00) 45.39%,rgba(89,255,83,1.00) 67.36%,rgba(255,31,31,1.00) 87.67%,rgba(29,163,255,1.00) 88.50%,rgba(255,0,0,1.00) 100%);
+}
